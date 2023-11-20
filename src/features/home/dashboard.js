@@ -31,7 +31,7 @@ export function Dashboard() {
               size="xl"
               className={classes.control}
               mt={40}>
-              Let's Get Started
+             Get Started
             </Button>
           </div>
         </div>

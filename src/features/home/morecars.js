@@ -17,7 +17,7 @@ const mockdata = [
   {
     title: 'Hawaii beaches review: better than you think',
     image:
-      'https://mainwebstorage.blob.core.windows.net/mediacontainers/styles/1920x1400/azure/2022-04/KenoZache_IMG_9161%20copy%202.png?h=cf759944&itok=9q-M1abA',
+      'https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2014/12/2015-Koenigsegg-One1-201.jpg?fill=18:11&resize=980:*',
     date: 'September 9, 2022',
   },
   {
